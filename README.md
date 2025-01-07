@@ -8,6 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Links](#links)
 
 ## Overview
 
@@ -23,4 +24,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS
 - [Bootstrap](https://getbootstrap.com/)
 
+## Links
 
+- [Live page](https://matgdev.github.io/qrcode-frontend-mentor/)
